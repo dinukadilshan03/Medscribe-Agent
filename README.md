@@ -14,22 +14,17 @@ Core features at a glance
 - Per-user isolation & auditability — data scoped per user with audit-friendly artifacts. 🔒
 
 ## Screenshots
-
 Here are a few screenshots from the app to illustrate the UI and features:
 
-![Upload and Home](assets/Screenshot 2025-10-23 at 01.06.17.png)
-
-![Features grid](assets/Screenshot 2025-10-23 at 01.06.46.png)
-
-![Report summary example](assets/Screenshot 2025-10-23 at 01.08.21.png)
-
-![Explainer panel](assets/Screenshot 2025-10-23 at 01.08.39.png)
-
-![Advice panel](assets/Screenshot 2025-10-23 at 01.08.57.png)
-
-![Translator example](assets/Screenshot 2025-10-23 at 01.09.54.png)
-
-![Chat / RAG conversation](assets/Screenshot 2025-10-23 at 01.10.08.png)
+<p align="center">
+  <img src="assets/Screenshot 2025-10-23 at 01.06.17.png" width="300" alt="Upload & Home screen"/>
+  <img src="assets/Screenshot 2025-10-23 at 01.06.46.png" width="300" alt="Features grid"/>
+  <img src="assets/Screenshot 2025-10-23 at 01.08.21.png" width="300" alt="Report summary example"/>
+  <img src="assets/Screenshot 2025-10-23 at 01.08.39.png" width="300" alt="Explainer panel"/>
+  <img src="assets/Screenshot 2025-10-23 at 01.08.57.png" width="300" alt="Advice panel"/>
+  <img src="assets/Screenshot 2025-10-23 at 01.09.54.png" width="300" alt="Translator example"/>
+  <img src="assets/Screenshot 2025-10-23 at 01.10.08.png" width="300" alt="Chat / RAG conversation"/>
+</p>
 
 ## Quick summary
 - Purpose: Provide patient-facing, plain-language summaries, explanations, translations, and evidence-grounded educational advice from clinical reports.
