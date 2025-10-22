@@ -13,6 +13,45 @@ Core features at a glance
 - RAG chat & retrieval — conversational Q&A grounded in report passages and structured facts. 💬🔗
 - Per-user isolation & auditability — data scoped per user with audit-friendly artifacts. 🔒
 
+## Screenshots
+
+Here are a few screenshots from the app to illustrate the UI and features. Click any image to open the full-size file.
+
+<figure>
+  <a href="assets/Screenshot 2025-10-23 at 01.06.17.png"><img src="assets/Screenshot 2025-10-23 at 01.06.17.png" alt="Upload and Home" width="600"></a>
+  <figcaption>Upload and Home</figcaption>
+</figure>
+
+<figure>
+  <a href="assets/Screenshot 2025-10-23 at 01.06.46.png"><img src="assets/Screenshot 2025-10-23 at 01.06.46.png" alt="Features grid" width="600"></a>
+  <figcaption>Features grid</figcaption>
+</figure>
+
+<figure>
+  <a href="assets/Screenshot 2025-10-23 at 01.08.21.png"><img src="assets/Screenshot 2025-10-23 at 01.08.21.png" alt="Report summary example" width="600"></a>
+  <figcaption>Report summary example</figcaption>
+</figure>
+
+<figure>
+  <a href="assets/Screenshot 2025-10-23 at 01.08.39.png"><img src="assets/Screenshot 2025-10-23 at 01.08.39.png" alt="Explainer panel" width="600"></a>
+  <figcaption>Explainer panel</figcaption>
+</figure>
+
+<figure>
+  <a href="assets/Screenshot 2025-10-23 at 01.08.57.png"><img src="assets/Screenshot 2025-10-23 at 01.08.57.png" alt="Advice panel" width="600"></a>
+  <figcaption>Advice panel</figcaption>
+</figure>
+
+<figure>
+  <a href="assets/Screenshot 2025-10-23 at 01.09.54.png"><img src="assets/Screenshot 2025-10-23 at 01.09.54.png" alt="Translator example" width="600"></a>
+  <figcaption>Translator example</figcaption>
+</figure>
+
+<figure>
+  <a href="assets/Screenshot 2025-10-23 at 01.10.08.png"><img src="assets/Screenshot 2025-10-23 at 01.10.08.png" alt="Chat / RAG conversation" width="600"></a>
+  <figcaption>Chat / RAG conversation</figcaption>
+</figure>
+
 ## Quick summary
 - Purpose: Provide patient-facing, plain-language summaries, explanations, translations, and evidence-grounded educational advice from clinical reports.
 - Not a diagnostic tool. Follow safety, disclaimer, and per-user isolation principles.
